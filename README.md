@@ -4,5 +4,12 @@
 Les matrices creuses sont des matrices contenant beaucoup de zéros. Elles sont donc difficiles à utiliser.
 L'encodage de Yale permet d'encoder ces matrices de façon à économiser du temps et de l'espace.
 
-Ce projet implémente un encondage de Yale pour les matrices. 
-Notamment, on encode 60 000 images 28 par 28 et on observe l'efficacité et la véracité de l'implémentation.
+Dans ce projet on trouve,
+
+ - Implémentation d'un encondage de Yale pour les matrices. 
+ 
+ - Encode de 60 000 images 28 par 28 du fichier *train-images-idx3-ubyte*
+ 
+ - Observation de l'efficacité et la véracité de l'implémentation de l'encodage.
+ 
+ 
