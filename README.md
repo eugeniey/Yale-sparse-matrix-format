@@ -14,4 +14,4 @@ Dans ce projet on trouve,
  
  - Observation de l'efficacité et la véracité de l'implémentation de l'encodage.
  
- 
+ Il faut *unzip* le fichier *train-images-idx3-ubyte.zip*
