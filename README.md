@@ -3,6 +3,8 @@
 
 Les matrices creuses sont des matrices contenant beaucoup de zéros. Elles sont donc difficiles à utiliser.
 L'encodage de Yale permet d'encoder ces matrices de façon à économiser du temps et de l'espace.
+Pour plus d'informations, visitez https://en.wikipedia.org/wiki/Sparse_matrix
+
 
 Dans ce projet on trouve,
 
